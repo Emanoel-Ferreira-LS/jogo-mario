@@ -19,7 +19,7 @@ main{
 
 .game-board{
     width: 80%;
-    height: 90%;
+    height: 80%;
     border-bottom: 15px solid rgb(4, 136, 4);/*Borada embaixo que simula uma grama*/
     margin: auto;
     position: relative;
